@@ -1,5 +1,5 @@
 # Employee Attrition Case Study for a Company by AdaBoost Classification
-> In this case study, we are attempting to solve a real world business problem using AdaBoost Classification Algortihm. We will be understanding and solving a risk analytics problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like The problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
+> In this case study, we are attempting to solve a real world business problem using AdaBoost Classification Algorithm. We will be understanding and solving a risk analytics problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like The problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -16,7 +16,7 @@ We will be using AdaBoost Classification Algortihm for predicting which factors 
 
 - What is the background of your project?
 
-In this case study, we are attempting to solve a real world business problem using AdaBoost Classification Algortihm. We will be understanding and solving an employee attrition problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like the problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
+In this case study, we are attempting to solve a real world business problem using AdaBoost Classification Algorithm. We will be understanding and solving an employee attrition problem in Human Resources Domain.We will be checking how data can be used effectively to solve business problems like the problem statement that we will be working on is to predict which factors led to employee attrition in a particular company.
 
 - Business Problem Statement:
 
